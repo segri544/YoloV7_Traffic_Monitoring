@@ -1,0 +1,5 @@
+python detect.py --weights 982-11mb.pt  --view-img --source video.mp4  --show-fps  
+
+python detectpy --weights 982-47mb.pt  --view-img --nosave --source 0  --show-fps --conf 0.5  --seed 2 --track
+
+python detect.py --weights 982-11mb.pt  --view-img --nosave --source image --show-fps --conf 0.5 
