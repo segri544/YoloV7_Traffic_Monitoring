@@ -277,3 +277,6 @@ Yolov7-semantic & YOLOv7-panoptic & YOLOv7-caption
 * [https://github.com/TexasInstruments/edgeai-yolov5/tree/yolo-pose](https://github.com/TexasInstruments/edgeai-yolov5/tree/yolo-pose)
 
 </details>
+
+## İmportant Note
+To run it on jetson nano with CSI camera (considering all configurations have done) utils/dataset.py should be changed to frame is taken by a CSI camera. it is recommended to check face_detect.py from https://github.com/JetsonHacksNano/CSI-Camera/blob/master/face_detect.py
