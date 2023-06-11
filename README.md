@@ -282,7 +282,7 @@ Yolov7-semantic & YOLOv7-panoptic & YOLOv7-caption
 To run it on jetson nano with CSI camera (considering all configurations have done) utils/dataset.py should be changed to frame is taken by a CSI camera. it is recommended to check face_detect.py from https://github.com/JetsonHacksNano/CSI-Camera/blob/master/face_detect.py
 
 ## Referances 
-https://github.com/WongKinYiu/yolov7
-https://github.com/RizwanMunawar/yolov7-object-tracking/
-https://github.com/krisnarengga/yolov7-vehicle-counting
+* https://github.com/WongKinYiu/yolov7
+* https://github.com/RizwanMunawar/yolov7-object-tracking/
+* https://github.com/krisnarengga/yolov7-vehicle-counting
 
