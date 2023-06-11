@@ -1,3 +1,8 @@
+### Traffic monitoring with yolov7
+https://www.youtube.com/watch?v=MhYBAASn8Us
+
+
+
 # Official YOLOv7
 
 Implementation of paper - [YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors](https://arxiv.org/abs/2207.02696)
@@ -239,26 +244,6 @@ YOLOv7 with decoupled TAL head (YOLOR + YOLOv5 + YOLOv6)
   year={2022}
 }
 ```
-
-
-## Teaser
-
-Yolov7-semantic & YOLOv7-panoptic & YOLOv7-caption
-
-<div align="center">
-    <a href="./">
-        <img src="./figure/tennis.jpg" width="24%"/>
-    </a>
-    <a href="./">
-        <img src="./figure/tennis_semantic.jpg" width="24%"/>
-    </a>
-    <a href="./">
-        <img src="./figure/tennis_panoptic.png" width="24%"/>
-    </a>
-    <a href="./">
-        <img src="./figure/tennis_caption.png" width="24%"/>
-    </a>
-</div>
 
 
 ## Acknowledgements
