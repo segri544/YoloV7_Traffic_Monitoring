@@ -1,5 +1,16 @@
 ### Traffic monitoring with yolov7
-https://www.youtube.com/watch?v=MhYBAASn8Us
+This repository contains the implementation of YOLOv7-based vehicle detection and counting system using Python. The system is designed to detect and count vehicles in real-time from video or image inputs, providing valuable traffic data for road analysis. It also supports the use of a CSI camera on Jetson Nano.
+
+## Features
+* Real-time vehicle detection and counting
+* Support for video and image inputs
+* Efficient and accurate vehicle detection using YOLOv7
+* Easy-to-use Python API for integrating into your projects
+* CSI camera support for Jetson Nano
+
+# Test samples
+![Ekran Görüntüsü (602)](https://github.com/segri544/YoloV7_Traffic_Monitoring/assets/111482228/1ff7b559-1df0-4e5c-8d91-c98e9c10fa09)
+for more samples check https://www.youtube.com/channel/UCqv1qrgRdgH8aCm-YG47qPA
 
 
 
